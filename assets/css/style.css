@@ -446,7 +446,7 @@ section .container {
   background-color:#444444;
   color: white;
   text-decoration: none;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.4s ease;
 }
 
 .btn:hover {
